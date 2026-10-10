@@ -1,0 +1,8 @@
+.vs/
+x64/
+out/
+*.user
+*.aps
+*.pdb
+*.ilk
+*.obj

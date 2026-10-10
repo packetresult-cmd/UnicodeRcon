@@ -1,0 +1,8 @@
+{
+  "_comment_RconPort": "선택. 0이면 RCON 패킷을 '구조'로 판별(포트 무관, 권장). 특정 포트로만 제한하려면 그 값 지정. 이 빌드처럼 GetPortNo가 엉뚱한 값(예:32330)을 주는 서버에선 0으로 두세요.",
+  "RconPort": 0,
+  "_comment_Verbose": "true면 시작할 때 훅 설치·포트 정보를 한 번 남김(기본 false). 반복 로그 없음.",
+  "Verbose": false,
+  "_comment_LogCommands": "true면 RCON 명령 포착마다 로그 한 줄(기본 false — 서버 로그가 도배됨).",
+  "LogCommands": false
+}

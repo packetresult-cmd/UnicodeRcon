@@ -1,0 +1,6 @@
+{
+  "FullName": "Unicode RCON",
+  "Description": "RCON 본문을 UTF-8로 처리해 유니코드(한글) BroadCast/ServerChat/명령이 깨지지 않게 합니다 (ASE). 원본: Michidu/Ark-Server-Plugins.",
+  "Version": 1.0,
+  "MinApiVersion": 3.0
+}
